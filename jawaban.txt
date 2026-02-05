@@ -1,0 +1,23 @@
+Asdos Pemdas & Algo ----------------------------------------------------------------------
+Nama : Bagas Satya Widhi
+Nim  : 20240140170
+
+1.	Perbedaan procedural dan berorientasi object. Perbedaan utama terletak pada kode programnya. Jika melihat kode program procedural maka, semua atau Sebagian besar program akan berjalan pada fungsi utama atau Int main(), Sedangkan berorientasi object. Kode programnya akan berupa gabungan fungsi fungsi atau class yang berisikan fungsi serta variable. Sehingga dalam menjalankan program. Pemograman berorientasi object lebih efisien serta rapih dibanding procedural.
+
+2.	Menggunakan ecapsulation sekaligus access modifier private. Ini berfungsi untuk menutup variable asli dari pengguna. Dengan enkapsulasi pengguna tidak diperbolehkan untuk mengakses data yang disembunyikan secara langsung. tapi bisa menggunakan dan memahami dengan mudah berdasarkan antar muka yang telah disediakan. Sehingga untuk menjaga agar tidak adanya penyalahgunaan
+
+3.	Class dan object. Object adalah hasil dari class yang akan di gunakan pada program utama. Seperti Class mahasiswa yang berisikan variable nim, nama, kelas. Untuk mengisikan datanya pada class mahasiswa dibutuhkan object atau instance sebagai representasi dari class, sehingga object akan memiliki sifat dan perilaku dari class yang digunakan semisal nama object adalah mhs.
+
+4.	Tiga jenis access modifiers. Public berarti terbuka untuk umum pengguna dapat melihat variable dari classnya, Private berarti menutup variable asli dari pengguna dan Protected adalah label yang berfungsi untuk menentukan sifat akses semua member yang mengikutinya
+
+5.	Constructor. Digunakan ketika inisiasi class pertama kali. Jika kita memiliki sebuah class yang mempunyai contructor maka pada saat fungsi utama dimana kita membuat object, Constructor adalah nilai awal dari class itu diwakili oleh object pada fungsi utama.
+
+6.	Function overloading dan function overriding, keduanya merupakan bagian dari fitur polymorphism dimana overriding terjadi bila menggunakan virtual function dalam penggunaannya sedangkan overloading tidak menggunakan virtual function pada programnya sehingga nilai function tertimpa dengan yang baru.
+
+7.	Destructor, kebalikan dari constructor dimana kalau constructor adalah insisasi awal fungsi utama setelah dijalankan maka destructor adalah Langkah terakhir sebelum program selesai, virtual desctrucor sering digunakan dalam inheritance karena pada dasarnya Inheritance adalah konsep pewarisan class. Class juga dapat menuruni dan memiliki apa yang dimiliki oleh class lainnya.
+
+8.	Friend function dan friend class, Friend Function adalah function yang memiliki kemampuan spesial kepada class yang mendeklarasikan function tersebut sebagai friend, sedangkan Friend class adalah class yang memiliki hak spesial kepada class lainnya yang mendeklarasikan class tersebut sebagai friend class, class tersebut akan memiliki kemampuan mengakses member dari class yang bersifat hak akses private dan protected. Begitu pula pada friend function. Bersifat hak akses private dan protected. Digunakan ketika program berorientasi object dengan skala yang besar. Dimana biasanya pada satu class fungsi dapat berubah nilai nya berdasarkan fungsi di class lain
+
+9.	This pada c++, this digunakan pada class itu sendiri untuk merujuk pada dirinya atau classnya yang memiliki nilai sebuah alamat dari parameter objek yang jelas.
+
+10.	Static. keyword static membuat member variable atau member function tersebut bersifat dimiliki semua object. 
